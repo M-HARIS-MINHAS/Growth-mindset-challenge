@@ -21,6 +21,8 @@ The **Growth Mindset Challenge** is an interactive web application built using *
 - NumPy
 - XlsxWriter
 
+Open With:[https://growth-mindset-challenge-ixqmszta3kcktynrbyfd7f.streamlit.app/]
+
 ## Installation
 1. Clone the repository:
    ```bash
